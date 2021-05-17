@@ -1,0 +1,15 @@
+.ImageUpload{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    /* position: fixed;
+    bottom: 0; */
+    background-color: white;
+    border-top: 1px solid lightgray;
+}
+.ImageUpload__Progress{
+    width: 100%;
+}
